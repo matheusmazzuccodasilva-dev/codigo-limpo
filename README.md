@@ -4,4 +4,4 @@ O livro Código Limpo: Habilidades Práticas do Agile Software, de Robert C. Mar
 Neste capítulo, Robert C. Martin explica que escolher bons nomes para variáveis, funções, classes e métodos é essencial para a compreensão do código. Os nomes devem ser claros, objetivos e revelar a intenção do programador.
 ### Evitar abreviações desnecessarias;
 ### Utilizar nomes fáceis de compreender;
-### Criar nomes que expliquem a função da variavel ou metodo;
+#### Criar nomes que expliquem a função da variavel ou metodo;
